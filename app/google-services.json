@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323691515559",
+    "project_id": "kurs230216",
+    "storage_bucket": "kurs230216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323691515559:android:d53eb1d2364a6671315582",
+        "android_client_info": {
+          "package_name": "com.example.firestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323691515559-94mbn0vesopubpnp0ei3mhn78npnt33t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wzNKIUYVKVQAcqoYSaF33enbEvK_R20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323691515559-94mbn0vesopubpnp0ei3mhn78npnt33t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
